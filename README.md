@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./SelfyAI.png" width="512">
+<img src="./SelfyAI.png" width="1024">
 </p>
 
 # 🧠 SelfyAI – Your AI. Your Asset. Your Future.
