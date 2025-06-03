@@ -2,7 +2,7 @@
 <img src="./SelfyAI.png" width="1024">
 </p>
 
-# 🧠 SelfyAI – Your AI. Your Asset. Your Future.
+#  SelfyAI – Your AI. Your Asset. Your Future.
 
 > 🌐 From RWA to VWA: The Next Evolution of Ownership
 
